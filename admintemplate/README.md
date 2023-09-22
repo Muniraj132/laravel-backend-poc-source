@@ -1,8 +1,17 @@
-## Getting Started
+# Project laravel-react-mysql-docker-app
 
-To get started with this project, follow these steps:
+### Installing and running the following commands
 
-1. Clone the repository:
+```
+git clone https://github.com/Muniraj132/laravel-backend-poc-source.git
+```
+```
+php artisan migrate
+```
+```
+copy .env.example .env
+```
 
-   ``` shell
-  
+
+
+
